@@ -7,3 +7,5 @@
 <h4> Vous pouvez faire une prédiction sur la page du site.</h4>
 <p> Entrez vos valeurs (numériques !) dans le formulaire et cliquez sur "Analyser".
 
+<p> Ce model sert à analyser la santé feotal (normale, suspecte, pathologique).<p>
+<p> Vous pourrez trouver plus d'infos sur le dataset et le model de prédiction dans le notebook projet fetal health.ipynb</p>
