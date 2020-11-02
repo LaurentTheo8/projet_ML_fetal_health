@@ -5,5 +5,5 @@
 <h3>Se rendre sur l'application web, port 5000 (localhost:5000)</h3>
 
 <h4> Vous pouvez faire une prédiction sur la page du site.</h4>
-<p> Entrez vos valeurs dans le formulaire et cliquez sur "Analyser".
+<p> Entrez vos valeurs (numériques !) dans le formulaire et cliquez sur "Analyser".
 
